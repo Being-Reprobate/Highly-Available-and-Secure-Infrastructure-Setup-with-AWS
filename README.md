@@ -22,4 +22,5 @@ This project aims to set up a secure infrastructure on AWS utilizing various ser
 7. Internet-Facing ALB: Configured the ALB to accept HTTP requests on port 80 directly from the internet gateway.
 ## Image of the Architecture
 ![Architecture](https://github.com/Being-Reprobate/Highly-Available-and-Secure-Infrastructure-Setup-with-Auto-Scaling-and-Bastion-Server-in-AWS/assets/145685176/b1cf687f-714f-4b19-bd4a-6583e2785b18)
-
+## Usage/Examples
+![Final App running](https://github.com/Being-Reprobate/Highly-Available-and-Secure-Infrastructure-Setup-with-Auto-Scaling-and-Bastion-Server-in-AWS/assets/145685176/7183f8e7-34f0-49f4-9a47-f17c3abac3f0)
