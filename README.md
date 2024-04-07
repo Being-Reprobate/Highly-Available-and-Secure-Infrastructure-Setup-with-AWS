@@ -21,3 +21,5 @@ This project aims to set up a secure infrastructure on AWS utilizing various ser
 6. Application Load Balancer (ALB): Created an ALB with a target group consisting of private instances, exposing port 8000 to handle incoming web traffic.
 7. Internet-Facing ALB: Configured the ALB to accept HTTP requests on port 80 directly from the internet gateway.
 ## Image of the Architecture
+![Architecture](https://github.com/Being-Reprobate/Highly-Available-and-Secure-Infrastructure-Setup-with-Auto-Scaling-and-Bastion-Server-in-AWS/assets/145685176/b1cf687f-714f-4b19-bd4a-6583e2785b18)
+
