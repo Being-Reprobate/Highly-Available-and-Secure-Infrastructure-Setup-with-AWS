@@ -1,5 +1,5 @@
 
-# A Highly Available and Secure Infrastructure setup with Auto Scaing in AWS
+# A Highly Available and Secure Infrastructure setup with Auto Scaling in AWS
 
 
 
